@@ -1,0 +1,6 @@
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\StringBuilderRefOut.exe.config
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\StringBuilderRefOut.exe
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\StringBuilderRefOut.pdb
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\StringBuilderRefOut.csprojAssemblyReference.cache
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\StringBuilderRefOut.exe
+E:\P409\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\StringBuilderRefOut.pdb
